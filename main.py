@@ -115,7 +115,7 @@ website_entry.grid(padx=5, pady=2.5, column=1, row=1, sticky="EW")
 website_entry.focus()
 email_entry = Entry()
 email_entry.grid(padx=5, pady=2.5, column=1, row=2, columnspan=2, sticky="EW")
-email_entry.insert(0, "rashidfaruqui369@gmail.com")
+email_entry.insert(0, "abc@gmail.com")
 password_entry = Entry()
 password_entry.grid(padx=5, pady=2.5, column=1, row=3, sticky="EW")
 
